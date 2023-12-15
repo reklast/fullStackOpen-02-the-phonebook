@@ -1,5 +1,5 @@
 import axios from 'axios';
-const baseUrl = 'http://localhost:3200/persons';
+const baseUrl = 'https://json-server-fullstackopen-c674a82664d5.herokuapp.com/persons';
 
 const getAll = () => {
     const request = axios.get(baseUrl);
