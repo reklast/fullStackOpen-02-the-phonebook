@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fullStackOpen-02-the-phonebook/static/js/main.6fb707b7.js",
+    "index.html": "/fullStackOpen-02-the-phonebook/index.html",
+    "main.6fb707b7.js.map": "/fullStackOpen-02-the-phonebook/static/js/main.6fb707b7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6fb707b7.js"
+  ]
+}
